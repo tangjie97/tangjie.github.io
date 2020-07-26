@@ -1,19 +1,19 @@
 ---
 layout: index
-title: 拐几个弯
+title: 一饮一啄
 ---
 ## Contact
 
-- E-mail: taynpg@163.com
+- E-mail: tangjie@nuaa.edu.cn
 
 ## Education
 
-**ZhengZhou University Of Light Industry - 2015 - 2019 - Big Machine - 04 - China**
+NUAA - 2015 - 2019 - Nanjing - 04 - China**
+
+NUAA - 2019 - 2021 - Nanjing - 04 - China**
 
 ## Skill
 
 - **C/C++**, Learning
-- **Python**, Familiar
-- **Markdown**, Learning
-- **Linux**, Familiar&Learning
-- **Java**, Learning
+- **Python**, Learning
+- **MATLAB**, skilled

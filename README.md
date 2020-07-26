@@ -10,7 +10,7 @@
 
 <!-- .slide vertical=true -->
 
-- E-mail: tangjie@nuaa.edu.cn
+- E-mail:
 - QQ: **780848196**
 
 <!-- .slide -->
