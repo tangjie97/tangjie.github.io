@@ -186,11 +186,11 @@ sidebar:
   - title: rss
     href: /atom.xml
     class: 'fas fa-rss fa-fw'
-  - title: taynpg@163.com # email
-    href: mailto:taynpg@163.com
+  - title: tangjie@nuaa.edu.cn # email
+    href: mailto:tangjie@nuaa.edu.cn
     class: 'fas fa-envelope fa-fw'
   - title: github
-    href: //github.com/taynpg
+    href: //github.com/tangjie
     class: 'fab fa-github fa-fw'
   - title: codeforces # codeforces
     href: //#
@@ -198,7 +198,7 @@ sidebar:
   - title: vjudge # vjudge
     href: //#
     class: 'fas fa-smile fa-fw'
-  - title: 2682056685 # qq
+  - title: 780848196# qq
     class: 'fab fa-qq fa-fw'
   - title: Phone Number # weixin
     class: 'fab fa-weixin fa-fw'
